@@ -73,5 +73,3 @@ Anjuman College of Engineering and Technology | 2024–2028
 - **GitHub:** [Sufiyansheikh8265](https://github.com/Sufiyansheikh8265)
 
 ---
-
-*This README is based on the information in my resume. Project descriptions summarize the work listed there; dataset links, source code, screenshots, and live dashboard links can be added when available.*
